@@ -1,27 +1,23 @@
 <p align="center">
-  <img src="" />
+  <img src="" />
 </p>
-🧑‍💻 Nazmul Islam — Flutter Developer | Mobile App Engineer
-
-Hi there 👋  
-I'm **Nazmul**, a passionate **Flutter developer and mobile app engineer** from **Dhaka, Bangladesh**.  
-I specialize in building **high-performance, scalable, and visually appealing mobile applications** using **Flutter**, along with advanced state management solutions like **GetX** and **Provider**.  
-
-I have hands-on experience with:  
-- **REST API integration** for dynamic data handling  
-- **Local storage solutions** such as **SQLite**, **GetStorage**, and **SharedPreferences**  
-- **Firebase** for backend services, authentication, and real-time database  
-- Building **clean, responsive, and user-friendly UI/UX** for modern mobile apps  
-
-I enjoy **problem-solving** and transforming complex challenges into efficient, maintainable solutions.  
-My goal is to become a **professional software engineer**, creating innovative apps that make a real impact in users’ daily lives.  
-
-I am constantly learning and exploring new technologies, focusing on **mobile app development, state management, backend integration, and performance optimization** to deliver high-quality solutions.
-
-🛠️ Tech Stack
+<h1 align="center">🧑‍💻 Nazmul Islam</h1>
+<h3 align="center">Flutter Developer | Mobile App Engineer</h3>
 
 <p align="center">
-  
+  A Flutter Developer specializing in building high-performance, scalable, and data-driven mobile applications. 
+  <br />
+  Proficient in <strong>Flutter</strong>, <strong>Dart</strong>, and advanced state management with <strong>GetX</strong> and <strong>Provider</strong>. 
+  <br />
+  Experienced in <strong>REST API</strong> integration, <strong>Firebase</strong> services, and local persistence with <strong>SQLite</strong> and <strong>GetStorage</strong>.
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -36,45 +32,45 @@ I am constantly learning and exploring new technologies, focusing on **mobile ap
 
 ### 📱 Projects
 
-#### 🗂️ Task Manager App  
-A clean and functional **Task Management** app built with **Flutter**, **GetX**, and **REST API** integration.  
-- Add, update, and delete tasks  
-- Manage task completion with checkbox  
-- Backend integrated using real API  
-- Local caching for smooth UX  
-🛠️ Tech: Flutter · provider · REST API · JSON · HTTP  
+#### 🗂️ Task Manager App
+Engineered a full-CRUD (Create, Read, Update, Delete) task management application, leveraging **GetX** for state management and UI reactivity.
+* Integrated a live **REST API** for real-time task synchronization and persistence.
+* Implemented local caching to ensure seamless offline access and a smooth user experience.
+* Managed user authentication tokens and session state across the app.
+
+**🛠️ Tech:** Flutter | GetX | REST API | JSON | HTTP
 
 🔗 [View on GitHub](https://github.com/yourusername/task_manager_app)
 
 ---
 
-#### 🌦️ Weather App  
-A beautiful **Weather Forecast** app that fetches live weather data using **OpenWeather API**.  
-- Real-time temperature, humidity, and wind updates  
-- Auto location detection  
-- Animated weather icons  
-🛠️ Tech: Flutter · Provider · REST API · Geolocator  
+#### 🌦️ Weather App
+Built a real-time weather application by fetching and parsing complex JSON data from the **OpenWeather API**.
+* Managed application state and UI updates efficiently using the **Provider** package.
+* Integrated the **Geolocator** package to provide live weather data based on the user's current location.
+
+**🛠️ Tech:** Flutter | Provider | REST API | Geolocator
 
 🔗 [View on GitHub](https://github.com/yourusername/weather_app)
 
 ---
 
-#### 🛒 Grocery App  
-A modern **E-Commerce UI** app for grocery shopping experience.  
-- Product listing, cart system, and checkout UI  
-- Responsive, clean and minimal design  
-- Built with state management for scalability  
-🛠️ Tech: Flutter · Provider · Firebase (future plan)  
+#### 💾 SQLite CRUD App
+Engineered a local-first application demonstrating full CRUD capabilities for offline data storage.
+* Implemented persistent data storage using **SQLite** (via `sqflite`) to allow for full offline functionality.
+* Leveraged **Provider** for state management to ensure reactive data synchronization between the UI and the local database.
 
-🔗 [View on GitHub](https://github.com/yourusername/grocery_app)
+**🛠️ Tech:** Flutter | Provider | SQLite | sqflite
+
+🔗 [View on GitHub](https://github.com/yourusername/sqlite_crud_app)
 
 ---
 
-#### 💾 SQLite CRUD App  
-A simple yet powerful **CRUD (Create, Read, Update, Delete)** demo using **SQLite** for offline data storage.  
-- Local database management  
-- Add / edit / delete records  
-- Ideal for learning database operations in Flutter  
-🛠️ Tech: Flutter · SQLite · Sqflite Plugin . Provider
+#### 🛒 Grocery App
+Designed and developed a responsive, modern e-commerce UI/UX for a grocery application.
+* Implemented a scalable app architecture using **Provider** to manage product lists, cart state, and user flow.
+* Focused on creating a clean, responsive, and intuitive interface to maximize user engagement.
 
-🔗 [View on GitHub](https://github.com/yourusername/sqlite_crud_app)
+**🛠️ Tech:** Flutter | Provider | UI/UX Design
+
+🔗 [View on GitHub](https://github.com/yourusername/grocery_app)
