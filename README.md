@@ -2,7 +2,7 @@
   <img src="https://github.com/Codes-of-NazmuL/Codes-of-NazmuL/blob/main/cover.png" alt="Header" />
 </p>
 
-<h1 align="center">🧑‍💻 Nazmul Islam</h1>
+<h1 align="center">Nazmul Islam</h1>
 <h3 align="center">Flutter Developer </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 A passionate Flutter developer with expertise in building high-performance, scalable mobile applications. I specialize in creating data-driven solutions with clean architecture and modern development practices.
 
@@ -29,7 +29,7 @@ A passionate Flutter developer with expertise in building high-performance, scal
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -49,9 +49,9 @@ A passionate Flutter developer with expertise in building high-performance, scal
 
 ---
 
-## 📱 Featured Projects
+##  Featured Projects
 
-### 🗂️ Todo App
+###  Todo App
 A full-featured task management application with real-time synchronization and offline capabilities.
 
 **Key Features:**
@@ -70,7 +70,7 @@ A full-featured task management application with real-time synchronization and o
 
 ---
 
-### 🌦️ Weather App
+###  Weather App
 Real-time weather application with location-based services and dynamic UI updates.
 
 **Key Features:**
@@ -89,7 +89,7 @@ Real-time weather application with location-based services and dynamic UI update
 
 ---
 
-### 💾 SQLite CRUD App
+###  SQLite CRUD App
 Offline-first application demonstrating robust local data management.
 
 **Key Features:**
@@ -108,7 +108,7 @@ Offline-first application demonstrating robust local data management.
 
 ---
 
-### 🛒 Grocery App
+###  Grocery App
 Modern e-commerce application with focus on UI/UX and scalable architecture.
 
 **Key Features:**
@@ -128,7 +128,7 @@ Modern e-commerce application with focus on UI/UX and scalable architecture.
 ---
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:nazmulislambd2004@gmail.com">
