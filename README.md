@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🧑‍💻 Nazmul Islam</h1>
-<h3 align="center">Flutter Developer | Mobile App Engineer</h3>
+<h3 align="center">Flutter Developer
 
 <p align="center">
   <a href="https://github.com/Codes-of-NazmuL?tab=repositories">
