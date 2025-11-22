@@ -9,9 +9,7 @@
   <a href="https://github.com/Codes-of-NazmuL?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-4-brightgreen?style=for-the-badge" alt="Projects" />
   </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/Status-Available for Work-success?style=for-the-badge" alt="Status" />
-  </a>
+
 </p>
 
 ---
