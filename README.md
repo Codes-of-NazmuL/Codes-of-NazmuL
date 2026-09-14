@@ -1,128 +1,212 @@
-<!-- ═══════════════════════════════════════════════════════════════════════
-     HERO
-═══════════════════════════════════════════════════════════════════════ -->
+<!--
+  GitHub Profile README
+  Nazmul Islam
+  ------------------------------------------------------------
+  Built to feel like a developer profile, not a landing page.
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0F172A,70:0EA5E9,100:22D3EE&text=Nazmul%20Islam&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=57&descSize=18&animation=fadeIn" />
+# Nazmul Islam
+
+### Flutter Developer · Mobile Engineer
+
+`Flutter` · `Dart` · `APIs` · `Firebase` · `Payments` · `Realtime` · `AI-integrated products`
+
+<br/>
+
+<a href="https://nazmuls.app">
+  <img src="https://img.shields.io/badge/Portfolio-nazmuls.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/nazmul-islam-qnix">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:nazmulislambd2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+mobile+products+that+solve+real+problems.;Flutter+%E2%80%A2+APIs+%E2%80%A2+AI+%E2%80%A2+Payments+%E2%80%A2+Realtime+Systems;From+rough+requirements+to+production-ready+applications.;Not+just+screens.+Complete+product+flows."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+real+mobile+products.;Solving+the+workflow%2C+not+just+the+screen.;Flutter+%2B+APIs+%2B+Payments+%2B+Realtime+%2B+AI.;Debug.+Understand.+Build+better."
     alt="Typing SVG"
   />
 </a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/FOCUS-Mobile%20Engineering-0F172A?style=for-the-badge&logo=flutter&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/BUILDING-Production%20Products-0F172A?style=for-the-badge&logo=rocket&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/EXPLORING-AI%20%2B%20Mobile-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-
-<br/><br/>
-
-<a href="https://nazmuls.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-nazmuls.app-020617?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/nazmul-islam-qnix">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:nazmulislambd2004@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     TERMINAL INTRO
-═══════════════════════════════════════════════════════════════════════ -->
+## `~/hello`
 
-## `~/nazmul $ whoami`
+```console
+$ whoami
 
-```dart
-final developer = Developer(
-  name: "Nazmul Islam",
-  role: "Flutter Developer",
-  builds: [
-    "Production Mobile Apps",
-    "AI-integrated Products",
-    "Marketplace Systems",
-    "Healthcare Applications",
-    "Realtime & Messaging Features",
-  ],
-  currentlyExploring: "AI / ML",
-  mindset: "Understand the workflow. Solve the actual problem.",
-);
+role        Flutter Developer
+focus       Production mobile applications
+working_on  Product flows, APIs, realtime features, payments, AI integrations
+learning    AI / ML
+status      Still debugging things that "should definitely work"
 ```
 
-I build mobile applications around **real product workflows**.
+I like the part of mobile development that usually starts after the UI is already on screen.
 
-That usually means the work goes far beyond UI:
+A requirement can look simple until authentication behaves differently on iOS, a booking touches five states, a deep link has to survive app installation, an AI response needs to become reliable UI data, or a payment can no longer be treated as a single boolean.
 
-`authentication` → `API state` → `payments` → `chat` → `deep links` → `permissions` → `platform differences` → `failure handling` → `release`
-
-I enjoy projects where the requirement sounds simple at first, but the real engineering problem only becomes visible once development starts.
+That is the kind of work I enjoy.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     STACK
-═══════════════════════════════════════════════════════════════════════ -->
-
-## `~/nazmul $ stack --active`
+## `~/stack --active`
 
 <div align="center">
 
-### Core
+### Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,git,github,docker,nginx&theme=dark" />
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://img.icons8.com/color/96/flutter.png" width="56" alt="Flutter"/><br/>
+  <b>Flutter</b>
+</td>
+<td align="center" width="120">
+  <img src="https://img.icons8.com/color/96/dart.png" width="56" alt="Dart"/><br/>
+  <b>Dart</b>
+</td>
+<td align="center" width="120">
+  <img src="https://img.icons8.com/color/96/android-os.png" width="56" alt="Android"/><br/>
+  <b>Android</b>
+</td>
+<td align="center" width="120">
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/mac-os.png" width="56" alt="iOS"/><br/>
+  <b>iOS</b>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+### State & Local Data
 
-### Product Engineering
+<table>
+<tr>
+<td align="center" width="130">
+  <img src="https://img.icons8.com/color/96/flutter.png" width="52" alt="GetX"/><br/>
+  <b>GetX</b>
+</td>
+<td align="center" width="130">
+  <img src="https://img.icons8.com/color/96/data-configuration.png" width="52" alt="Provider"/><br/>
+  <b>Provider</b>
+</td>
+<td align="center" width="130">
+  <img src="https://img.icons8.com/color/96/sqlite.png" width="52" alt="SQLite"/><br/>
+  <b>SQLite</b>
+</td>
+<td align="center" width="130">
+  <img src="https://img.icons8.com/color/96/database--v1.png" width="52" alt="GetStorage"/><br/>
+  <b>GetStorage</b>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/GetX-State%20Management-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Provider-State%20Management-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST-API%20Integration-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Firebase-Mobile%20Services-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+### APIs, Backend Services & Payments
 
-<br/>
+<table>
+<tr>
+<td align="center" width="130">
+  <img src="https://img.icons8.com/color/96/firebase.png" width="52" alt="Firebase"/><br/>
+  <b>Firebase</b>
+</td>
+<td align="center" width="130">
+  <img src="https://img.icons8.com/color/96/api-settings.png" width="52" alt="REST API"/><br/>
+  <b>REST APIs</b>
+</td>
+<td align="center" width="130">
+  <img src="https://img.icons8.com/color/96/json--v1.png" width="52" alt="JSON"/><br/>
+  <b>JSON</b>
+</td>
+<td align="center" width="130">
+  <img src="https://img.icons8.com/color/96/stripe.png" width="52" alt="Stripe"/><br/>
+  <b>Stripe</b>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep%20Links-App%20Routing-0284C7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Passkeys-Authentication-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Realtime-Chat%20%26%20Events-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-Product%20Integration-7C3AED?style=for-the-badge" />
+### DevOps & Infrastructure
+
+<table>
+<tr>
+<td align="center" width="115">
+  <img src="https://img.icons8.com/color/96/git.png" width="52" alt="Git"/><br/>
+  <b>Git</b>
+</td>
+<td align="center" width="115">
+  <img src="https://img.icons8.com/fluency/96/github.png" width="52" alt="GitHub"/><br/>
+  <b>GitHub</b>
+</td>
+<td align="center" width="115">
+  <img src="https://img.icons8.com/color/96/docker.png" width="52" alt="Docker"/><br/>
+  <b>Docker</b>
+</td>
+<td align="center" width="115">
+  <img src="https://img.icons8.com/color/96/nginx.png" width="52" alt="Nginx"/><br/>
+  <b>Nginx</b>
+</td>
+<td align="center" width="115">
+  <img src="https://img.icons8.com/color/96/ubuntu--v1.png" width="52" alt="Ubuntu"/><br/>
+  <b>Ubuntu</b>
+</td>
+</tr>
+</table>
+
+### Product Integrations
+
+<table>
+<tr>
+<td align="center" width="125">
+  <img src="https://img.icons8.com/color/96/qr-code.png" width="48" alt="QR Systems"/><br/>
+  <b>QR Systems</b>
+</td>
+<td align="center" width="125">
+  <img src="https://img.icons8.com/color/96/chat--v1.png" width="48" alt="Realtime Chat"/><br/>
+  <b>Realtime Chat</b>
+</td>
+<td align="center" width="125">
+  <img src="https://img.icons8.com/color/96/link--v1.png" width="48" alt="Deep Linking"/><br/>
+  <b>Deep Linking</b>
+</td>
+<td align="center" width="125">
+  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="48" alt="AI Integration"/><br/>
+  <b>AI Integration</b>
+</td>
+<td align="center" width="125">
+  <img src="https://img.icons8.com/color/96/appointment-reminders--v1.png" width="48" alt="Notifications"/><br/>
+  <b>Notifications</b>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     PROJECTS
-═══════════════════════════════════════════════════════════════════════ -->
+## `~/selected-work`
 
-## `~/nazmul $ cat selected-work.md`
-
-> Most of my commercial work is private client work.
-> I describe the engineering problems here instead of publishing code I do not own.
+> Most of my production work is client work, so the source code is private.  
+> I would rather describe the engineering honestly than attach fake public repository links.
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🫧 Chaizen
+### Chaizen
 
-**Anonymous Social App**
+**Anonymous social app**
 
-A social experience built around floating interactive bubbles and anonymous chat.
+Floating bubble interactions, anonymous chat, and an identity problem that looked simple until iPhone made the first approach unreliable.
 
-The interesting part was identity.
+The early device-ID approach was not stable enough for persistent identity, so the authentication flow moved toward passkeys.
 
-A device-ID approach initially looked reasonable, but iPhone behavior made it unreliable for persistent identity. The flow was rethought around passkeys instead of forcing an unstable identifier to behave like authentication.
+**Worked around**
 
 `Flutter` `Animations` `Passkeys` `Chat`
 
@@ -130,33 +214,35 @@ A device-ID approach initially looked reasonable, but iPhone behavior made it un
 
 <td width="50%" valign="top">
 
-### 🩺 Mojacares
+### Mojacares
 
-**Healthcare Service Platform**
+**Healthcare service platform**
 
-Patient and staff workflows connected with home-care services, medical reports, recorded vitals, health scores, AI insights, and AI chat.
+Patient and staff workflows connected with healthcare services, reports, recorded vitals, health scores, AI insights, and AI chat.
 
-The main challenge was turning health data coming from different sources into something the patient could actually understand.
+The interesting part was turning information from different health records into something understandable inside the patient experience.
+
+**Worked around**
 
 `Flutter` `Healthcare` `AI Insights` `Patient Data`
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### 🎙️ Mediscribe AI
+### Mediscribe AI
 
-**AI-Assisted Clinical Documentation**
+**AI-assisted clinical documentation**
 
-Records doctor-patient consultations and converts the processed conversation into structured SOAP notes:
+Doctors record a consultation and the processed conversation becomes a structured SOAP note:
 
-**Subjective → Objective → Assessment → Plan**
+`Subjective → Objective → Assessment → Plan`
 
-The real value was not recording audio. It was turning a natural consultation into structured information a doctor could review later.
+The useful part was not voice recording itself. It was turning a normal conversation into structured information the doctor could review later.
+
+**Worked around**
 
 `Flutter` `Audio` `AI Processing` `SOAP`
 
@@ -164,35 +250,37 @@ The real value was not recording audio. It was turning a natural consultation in
 
 <td width="50%" valign="top">
 
-### 🔳 COOW
+### COOW
 
-**QR Ownership & Recovery Platform**
+**QR ownership & recovery platform**
 
-What first looked like a QR scanner became a system connecting physical objects, owners, finders, products, companies, and permissions.
+What initially looked like a QR scanner became a system connecting physical objects, owners, finders, products, companies, and permissions.
 
-Included lost mode, deep links, private messaging, reward negotiation, verification levels, and company-managed QR access.
+Lost mode, deep links, private messaging, reward negotiation, verification levels, and shared company QR access were all part of the product.
 
-`Flutter` `QR` `Deep Linking` `Messaging` `RBAC`
+**Worked around**
+
+`Flutter` `QR` `Deep Linking` `Messaging` `Permissions`
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### 🏎️ Adventure Rentals
+### Adventure Rentals
 
-**Vehicle Rental Marketplace**
+**Sports vehicle rental marketplace**
 
-A two-sided marketplace where providers list sports vehicles and renters request them.
+A rental is not one screen. It moves through a lifecycle:
 
-The interesting part was keeping the lifecycle consistent:
+```text
+request → approval → payment → pickup → rental → return
+```
 
-`request → approval → payment → pickup → rental → return`
+The app connected vehicle listings, renter/provider flows, chat, booking state, and Stripe payments around that lifecycle.
 
-Chat and Stripe payments were connected to the same booking state.
+**Worked around**
 
 `Flutter` `Marketplace` `Stripe` `Chat`
 
@@ -200,287 +288,303 @@ Chat and Stripe payments were connected to the same booking state.
 
 <td width="50%" valign="top">
 
-### 🏐 Gaelic Football Fantasy
+### Gaelic Football Fantasy
 
-**Team Building & Player Management**
+**Team building & player management**
 
-My first project around Gaelic football.
+I knew almost nothing about Gaelic football before this project, so part of the work was understanding the sport before translating the client's rules into product behavior.
 
-Before implementing the product, I first had to understand the sport itself.
+Player budgets, positions, availability, injuries, performance, and prediction-related information all affected the team-building flow.
 
-The app handled player selection, budgets, positions, availability, injuries, performance, and prediction-related information.
+**Worked around**
 
-`Flutter` `Team Building` `Budget Logic` `Domain Modeling`
+`Flutter` `Team Building` `Budget Logic` `Player State`
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     ENGINEERING PHILOSOPHY
-═══════════════════════════════════════════════════════════════════════ -->
+## `~/project-notes`
 
-## `~/nazmul $ ./build-product.sh`
+<details>
+<summary><b>Chaizen — the bubble problem</b></summary>
+<br/>
+
+The floating bubbles could not all move in the same predictable direction.
+
+I used controlled randomized offsets such as:
 
 ```text
-┌───────────────────────────────────────────────┐
-│              PRODUCT DEVELOPMENT              │
-├───────────────────────────────────────────────┤
-│                                               │
-│   Understand the requirement                  │
-│                 │                             │
-│                 ▼                             │
-│   Understand the real-world workflow          │
-│                 │                             │
-│                 ▼                             │
-│   Identify states + edge cases                │
-│                 │                             │
-│                 ▼                             │
-│   Define API / app responsibilities           │
-│                 │                             │
-│                 ▼                             │
-│   Build the feature                           │
-│                 │                             │
-│                 ▼                             │
-│   Test actual Android / iOS behavior          │
-│                 │                             │
-│                 ▼                             │
-│   Handle failures                             │
-│                 │                             │
-│                 ▼                             │
-│                SHIP                           │
-│                                               │
-└───────────────────────────────────────────────┘
+-35    0    +35
 ```
 
-### Things I care about
+to introduce enough variation that the bubbles felt independent without making the animation system unnecessarily complicated.
 
-```yaml
-engineering:
-  state:
-    - predictable
-    - traceable
+</details>
 
-  authentication:
-    - secure
-    - platform-aware
+<details>
+<summary><b>COOW — the QR code was only the beginning</b></summary>
+<br/>
 
-  APIs:
-    - structured contracts
-    - clear failure states
+A scanned QR could represent a vehicle, a lost object, a product, or a company-managed resource.
 
-  mobile:
-    - Android behavior
-    - iOS behavior
-    - real-device testing
+So the real question was never just:
 
-  code:
-    - understandable
-    - maintainable
-    - no unnecessary complexity
+```text
+"Can the app scan this QR?"
+```
 
-  product:
-    - solve the workflow
-    - not just the screen
+It was:
+
+```text
+"What should happen after this QR is scanned?"
+```
+
+That led into identity, permissions, deep links, lost mode, messaging, and company access.
+
+</details>
+
+<details>
+<summary><b>Adventure Rentals — state matters</b></summary>
+<br/>
+
+The booking had to remain understandable from both sides.
+
+```text
+Renter                         Provider
+  |                               |
+  | -------- request -----------> |
+  |                               |
+  | <------- accept ------------- |
+  |                               |
+  | -------- payment -----------> |
+  |                               |
+  | -------- pickup ------------> |
+  |                               |
+  | -------- return ------------> |
+```
+
+The same booking existed for both users, but the actions available to each side were different.
+
+</details>
+
+---
+
+## `~/how-i-build`
+
+```text
+idea
+ │
+ ▼
+understand the real workflow
+ │
+ ▼
+find hidden states + edge cases
+ │
+ ▼
+decide what belongs to app / API
+ │
+ ▼
+build
+ │
+ ▼
+test on Android + iOS
+ │
+ ▼
+something weird happens
+ │
+ ▼
+debug the real cause
+ │
+ ▼
+ship
+```
+
+My default questions are usually:
+
+```text
+What happens if this request runs twice?
+
+What happens if the network disappears here?
+
+Who owns this state?
+
+Can this user actually perform this action?
+
+What happens when the token expires?
+
+Will iOS behave the same way as Android?
+
+What does the user see when the happy path fails?
 ```
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     GITHUB STATS
-═══════════════════════════════════════════════════════════════════════ -->
+## `~/engineering-rules`
 
-## `~/nazmul $ github --stats`
+```yaml
+state:
+  should_be:
+    - predictable
+    - traceable
+
+api:
+  prefer:
+    - explicit contracts
+    - structured errors
+    - boring responses the UI can trust
+
+authentication:
+  remember:
+    - device identity is not user identity
+
+mobile:
+  test:
+    - Android
+    - iOS
+    - real devices
+
+architecture:
+  rule:
+    - complexity needs a reason
+
+product:
+  rule:
+    - understand the workflow before building the screen
+```
+
+---
+
+## `~/github --stats`
 
 <div align="center">
 
 <img
-height="175"
-src="https://github-readme-stats.vercel.app/api?username=Codes-of-NazmuL&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github"
+  height="175"
+  src="https://github-readme-stats.vercel.app/api?username=Codes-of-NazmuL&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github"
+  alt="GitHub Stats"
 />
 
 <img
-height="175"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codes-of-NazmuL&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1"
+  height="175"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codes-of-NazmuL&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
+  alt="Top Languages"
 />
 
 <br/><br/>
 
 <img
-src="https://streak-stats.demolab.com?user=Codes-of-NazmuL&theme=transparent&hide_border=true&background=020617&stroke=1E293B&ring=38BDF8&fire=22D3EE&currStreakNum=FFFFFF&sideNums=CBD5E1&currStreakLabel=38BDF8&sideLabels=64748B&dates=64748B"
+  src="https://streak-stats.demolab.com?user=Codes-of-NazmuL&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
 />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     ACTIVITY
-═══════════════════════════════════════════════════════════════════════ -->
-
-## `~/nazmul $ git log --graph`
+## `~/git log --graph`
 
 <div align="center">
 
 <img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Codes-of-NazmuL&bg_color=020617&color=94A3B8&line=38BDF8&point=FFFFFF&area=true&area_color=0EA5E9&hide_border=true"
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Codes-of-NazmuL&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true"
+  alt="Contribution Graph"
 />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     EXPERIENCE AREAS
-═══════════════════════════════════════════════════════════════════════ -->
+## `~/currently`
 
-## `~/nazmul $ experience --areas`
+```diff
++ Shipping Flutter applications
++ Getting better at production architecture
++ Learning AI / ML
++ Exploring where AI actually helps inside mobile products
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### Mobile
-
-Flutter
-Dart
-Android
-iOS
-
-</td>
-
-<td align="center" width="25%">
-
-### Product
-
-Healthcare
-Marketplace
-Social
-QR Systems
-
-</td>
-
-<td align="center" width="25%">
-
-### Integrations
-
-REST APIs
-Firebase
-Stripe
-Deep Links
-
-</td>
-
-<td align="center" width="25%">
-
-### Systems
-
-Authentication
-Realtime Chat
-AI Features
-State Management
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     CURRENT FOCUS
-═══════════════════════════════════════════════════════════════════════ -->
-
-## `~/nazmul $ cat current-focus.yaml`
-
-```yaml
-primary:
-  role: Flutter Developer
-  focus:
-    - production mobile applications
-    - product engineering
-    - complex application workflows
-
-learning:
-  direction: AI / ML
-  interests:
-    - AI-powered mobile products
-    - intelligent workflows
-    - applied machine learning
-
-looking_for:
-  - difficult Flutter problems
-  - AI + mobile products
-  - products with real engineering depth
+- Treating every requirement as "just another screen"
+- Trusting "works on my machine"
 ```
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     PUBLIC REPOS
-═══════════════════════════════════════════════════════════════════════ -->
-
-## `~/nazmul $ ls ./public-repositories`
+## `~/public-repositories`
 
 <div align="center">
 
+Commercial work stays private. Public experiments and practice projects live here.
+
+<br/><br/>
+
 <a href="https://github.com/Codes-of-NazmuL?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Repositories" />
 </a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     CONNECT
-═══════════════════════════════════════════════════════════════════════ -->
+## `~/developer-runtime`
 
-## `~/nazmul $ connect`
+```javascript
+const runtime = {
+  darkMode: true,
+  tabsOpen: "too many",
+  bugAppearsAfterDemoStarts: true,
+  searchesErrorBeforePanicking: true,
+  hotReloadDependency: "concerning",
+  favoriteStatusCode: 200,
+  leastFavoriteStatusCode: 500,
+};
+
+while (runtime.darkMode) {
+  build();
+  test();
+  debug();
+  understand();
+  buildBetter();
+}
+```
+
+---
+
+## `~/connect`
 
 <div align="center">
 
-### Building something interesting?
+### Have an interesting engineering problem?
 
-I am always interested in products where the engineering problem is more interesting than the screen itself.
+I am more interested in the difficult part than the obvious part.
 
 <br/>
 
 <a href="https://nazmuls.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-nazmuls.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=020617" />
+  <img src="https://img.shields.io/badge/Portfolio-nazmuls.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Portfolio" />
 </a>
 
 <a href="https://www.linkedin.com/in/nazmul-islam-qnix">
-  <img src="https://img.shields.io/badge/LINKEDIN-Nazmul%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Nazmul_Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:nazmulislambd2004@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Codes-of-NazmuL&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge" />
+<img
+  src="https://komarev.com/ghpvc/?username=Codes-of-NazmuL&label=profile+views&color=58a6ff&style=flat-square"
+  alt="Profile Views"
+/>
+
+<br/><br/>
+
+<sub>
+build → break → debug → understand → build better
+</sub>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-```text
-while (alive) {
-    learn();
-    build();
-    breakThings();
-    understandWhy();
-    buildBetter();
-}
-```
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:22D3EE,45:0EA5E9,75:0F172A,100:020617" />
