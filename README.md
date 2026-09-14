@@ -1,32 +1,99 @@
-<!--
-  GitHub Profile README
-  Nazmul Islam
-  ------------------------------------------------------------
-  Built to feel like a developer profile, not a landing page.
--->
+<!-- =========================
+     HERO
+========================= -->
 
 <div align="center">
 
-<img src="./assets/profile-hero.gif" width="100%" alt="Nazmul Islam animated developer profile hero" />
+<h1>Nazmul Islam</h1>
+
+<h3>Flutter Developer · Mobile Engineer</h3>
+
+<p>
+  I build production mobile apps around real workflows, APIs, payments, realtime features, and AI integrations.
+</p>
 
 <br/>
 
-<a href="https://nazmuls.app">
-  <img src="https://img.shields.io/badge/Portfolio-nazmuls.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/nazmul-islam-qnix">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:nazmulislambd2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<!-- Clean Icons8 link buttons -->
+<table>
+<tr>
 
-<br/><br/>
+<td align="center" width="150">
+  <a href="https://nazmuls.app">
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="44" alt="Portfolio"/>
+    <br/>
+    <b>Portfolio</b>
+  </a>
+</td>
 
-<img src="https://img.shields.io/badge/Status-Building-238636?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Learning-AI%20%2F%20ML-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Timezone-GMT%2B6-30363D?style=flat-square" />
+<td align="center" width="150">
+  <a href="https://www.linkedin.com/in/nazmul-islam-qnix">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="44" alt="LinkedIn"/>
+    <br/>
+    <b>LinkedIn</b>
+  </a>
+</td>
+
+<td align="center" width="150">
+  <a href="mailto:nazmulislambd2004@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="44" alt="Email"/>
+    <br/>
+    <b>Email</b>
+  </a>
+</td>
+
+<td align="center" width="150">
+  <a href="https://github.com/Codes-of-NazmuL?tab=repositories">
+    <img src="https://img.icons8.com/fluency/96/github.png" width="44" alt="GitHub"/>
+    <br/>
+    <b>Repositories</b>
+  </a>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- Small status row -->
+<table>
+<tr>
+<td align="center" width="170">
+  <img src="https://img.icons8.com/color/48/flutter.png" width="28" alt="Flutter"/>
+  <br/>
+  <b>Flutter</b>
+</td>
+
+<td align="center" width="170">
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="28" alt="AI ML"/>
+  <br/>
+  <b>Learning AI / ML</b>
+</td>
+
+<td align="center" width="170">
+  <img src="https://img.icons8.com/color/48/rocket.png" width="28" alt="Building"/>
+  <br/>
+  <b>Building Products</b>
+</td>
+
+<td align="center" width="170">
+  <img src="https://img.icons8.com/color/48/worldwide-location.png" width="28" alt="GMT+6"/>
+  <br/>
+  <b>GMT+6</b>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Optional animation. If assets are missing, the name and links above still remain visible. -->
+<img src="./assets/profile-hero.gif" width="100%" alt="Animated developer profile hero" />
+
+<br/>
+
+<sub>
+build → debug → understand → ship → repeat
+</sub>
 
 </div>
 
@@ -34,29 +101,39 @@
 
 <table>
 <tr>
+
 <td width="33%" align="center">
-
-<b>BUILD</b><br/>
-Production mobile apps
-
+  <img src="https://img.icons8.com/color/48/code.png" width="28" alt="Build"/>
+  <br/>
+  <b>BUILD</b>
+  <br/>
+  Production mobile apps
 </td>
+
 <td width="33%" align="center">
-
-<b>SOLVE</b><br/>
-State, auth, payments & edge cases
-
+  <img src="https://img.icons8.com/color/48/maintenance.png" width="28" alt="Solve"/>
+  <br/>
+  <b>SOLVE</b>
+  <br/>
+  Auth, state, payments & edge cases
 </td>
+
 <td width="33%" align="center">
-
-<b>EXPLORE</b><br/>
-AI + mobile workflows
-
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="28" alt="Explore"/>
+  <br/>
+  <b>EXPLORE</b>
+  <br/>
+  AI + mobile workflows
 </td>
+
 </tr>
 </table>
 
-~/hello
+---
 
+## `~/hello`
+
+```console
 $ whoami
 
 role        Flutter Developer
@@ -64,6 +141,7 @@ focus       Production mobile applications
 working_on  Product flows, APIs, realtime features, payments, AI integrations
 learning    AI / ML
 status      Still debugging things that "should definitely work"
+```
 
 I like the part of mobile development that usually starts after the UI is already on screen.
 
@@ -75,11 +153,13 @@ That is the kind of work I enjoy.
   <img src="./assets/code-rain.gif" width="94%" alt="Animated code rain divider" />
 </div>
 
-~/stack --active
+---
+
+## `~/stack --active`
 
 <div align="center">
 
-Mobile Development
+### Mobile Development
 
 <table>
 <tr>
@@ -102,7 +182,7 @@ Mobile Development
 </tr>
 </table>
 
-State & Local Data
+### State & Local Data
 
 <table>
 <tr>
@@ -125,7 +205,7 @@ State & Local Data
 </tr>
 </table>
 
-APIs, Backend Services & Payments
+### APIs, Backend Services & Payments
 
 <table>
 <tr>
@@ -148,7 +228,7 @@ APIs, Backend Services & Payments
 </tr>
 </table>
 
-DevOps & Infrastructure
+### DevOps & Infrastructure
 
 <table>
 <tr>
@@ -175,7 +255,7 @@ DevOps & Infrastructure
 </tr>
 </table>
 
-Product Integrations
+### Product Integrations
 
 <table>
 <tr>
@@ -210,26 +290,28 @@ Product Integrations
   <img src="./assets/tech-orbit.gif" width="94%" alt="Animated product technology orbit" />
 </div>
 
-~/selected-work
+---
 
-Most of my production work is client work, so the source code is private.
-I would rather describe the engineering honestly than attach fake public repository links.
+## `~/selected-work`
+
+> Most of my production work is client work, so the source code is private.  
+> I would rather describe the engineering honestly than attach fake public repository links.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-Chaizen
+### Chaizen
 
-Anonymous social app
+**Anonymous social app**
 
 Floating bubble interactions, anonymous chat, and an identity problem that looked simple until iPhone made the first approach unreliable.
 
 The early device-ID approach was not stable enough for persistent identity, so the authentication flow moved toward passkeys.
 
-Worked around
+**Worked around**
 
-Flutter Animations Passkeys Chat
+`Flutter` `Animations` `Passkeys` `Chat`
 
 <br/>
 
@@ -254,17 +336,17 @@ Flutter Animations Passkeys Chat
 
 <td width="50%" valign="top">
 
-Mojacares
+### Mojacares
 
-Healthcare service platform
+**Healthcare service platform**
 
 Patient and staff workflows connected with healthcare services, reports, recorded vitals, health scores, AI insights, and AI chat.
 
 The interesting part was turning information from different health records into something understandable inside the patient experience.
 
-Worked around
+**Worked around**
 
-Flutter Healthcare AI Insights Patient Data
+`Flutter` `Healthcare` `AI Insights` `Patient Data`
 
 <!--
 Mojacares Google Play button goes here once the exact Play Store URL/package ID is confirmed.
@@ -277,35 +359,35 @@ Use the same Icons8 Google Play icon style as Chaizen.
 <tr>
 <td width="50%" valign="top">
 
-Mediscribe AI
+### Mediscribe AI
 
-AI-assisted clinical documentation
+**AI-assisted clinical documentation**
 
 Doctors record a consultation and the processed conversation becomes a structured SOAP note:
 
-Subjective → Objective → Assessment → Plan
+`Subjective → Objective → Assessment → Plan`
 
 The useful part was not voice recording itself. It was turning a normal conversation into structured information the doctor could review later.
 
-Worked around
+**Worked around**
 
-Flutter Audio AI Processing SOAP
+`Flutter` `Audio` `AI Processing` `SOAP`
 
 </td>
 
 <td width="50%" valign="top">
 
-COOW
+### COOW
 
-QR ownership & recovery platform
+**QR ownership & recovery platform**
 
 What initially looked like a QR scanner became a system connecting physical objects, owners, finders, products, companies, and permissions.
 
 Lost mode, deep links, private messaging, reward negotiation, verification levels, and shared company QR access were all part of the product.
 
-Worked around
+**Worked around**
 
-Flutter QR Deep Linking Messaging Permissions
+`Flutter` `QR` `Deep Linking` `Messaging` `Permissions`
 
 </td>
 </tr>
@@ -313,35 +395,37 @@ Flutter QR Deep Linking Messaging Permissions
 <tr>
 <td width="50%" valign="top">
 
-Adventure Rentals
+### Adventure Rentals
 
-Sports vehicle rental marketplace
+**Sports vehicle rental marketplace**
 
 A rental is not one screen. It moves through a lifecycle:
 
+```text
 request → approval → payment → pickup → rental → return
+```
 
 The app connected vehicle listings, renter/provider flows, chat, booking state, and Stripe payments around that lifecycle.
 
-Worked around
+**Worked around**
 
-Flutter Marketplace Stripe Chat
+`Flutter` `Marketplace` `Stripe` `Chat`
 
 </td>
 
 <td width="50%" valign="top">
 
-Gaelic Football Fantasy
+### Gaelic Football Fantasy
 
-Team building & player management
+**Team building & player management**
 
 I knew almost nothing about Gaelic football before this project, so part of the work was understanding the sport before translating the client's rules into product behavior.
 
 Player budgets, positions, availability, injuries, performance, and prediction-related information all affected the team-building flow.
 
-Worked around
+**Worked around**
 
-Flutter Team Building Budget Logic Player State
+`Flutter` `Team Building` `Budget Logic` `Player State`
 
 </td>
 </tr>
@@ -353,7 +437,9 @@ Flutter Team Building Budget Logic Player State
   <img src="./assets/product-flow.gif" width="94%" alt="Animated user action to product result flow" />
 </div>
 
-~/project-notes
+---
+
+## `~/project-notes`
 
 <details>
 <summary><b>Chaizen — the bubble problem</b></summary>
@@ -363,7 +449,9 @@ The floating bubbles could not all move in the same predictable direction.
 
 I used controlled randomized offsets such as:
 
+```text
 -35    0    +35
+```
 
 to introduce enough variation that the bubbles felt independent without making the animation system unnecessarily complicated.
 
@@ -377,11 +465,15 @@ A scanned QR could represent a vehicle, a lost object, a product, or a company-m
 
 So the real question was never just:
 
+```text
 "Can the app scan this QR?"
+```
 
 It was:
 
+```text
 "What should happen after this QR is scanned?"
+```
 
 That led into identity, permissions, deep links, lost mode, messaging, and company access.
 
@@ -393,6 +485,7 @@ That led into identity, permissions, deep links, lost mode, messaging, and compa
 
 The booking had to remain understandable from both sides.
 
+```text
 Renter                         Provider
   |                               |
   | -------- request -----------> |
@@ -404,12 +497,15 @@ Renter                         Provider
   | -------- pickup ------------> |
   |                               |
   | -------- return ------------> |
+```
 
 The same booking existed for both users, but the actions available to each side were different.
 
 </details>
 
-~/how-i-build
+---
+
+## `~/how-i-build`
 
 <div align="center">
   <img src="./assets/build-debug-ship.gif" width="92%" alt="Build, test, debug, ship animation" />
@@ -417,6 +513,7 @@ The same booking existed for both users, but the actions available to each side 
 
 <br/>
 
+```text
 idea
  │
  ▼
@@ -442,9 +539,11 @@ debug the real cause
  │
  ▼
 ship
+```
 
 My default questions are usually:
 
+```text
 What happens if this request runs twice?
 
 What happens if the network disappears here?
@@ -458,6 +557,9 @@ What happens when the token expires?
 Will iOS behave the same way as Android?
 
 What does the user see when the happy path fails?
+```
+
+---
 
 <div align="center">
   <img src="./assets/debug-loop.gif" width="94%" alt="Animated debugging loop" />
@@ -465,8 +567,9 @@ What does the user see when the happy path fails?
 
 <br/>
 
-~/engineering-rules
+## `~/engineering-rules`
 
+```yaml
 state:
   should_be:
     - predictable
@@ -495,49 +598,54 @@ architecture:
 product:
   rule:
     - understand the workflow before building the screen
+```
 
-~/github --snapshot
+---
+
+## `~/github --snapshot`
 
 <div align="center">
 
 <img
-src="./assets/github-snapshot.gif"
-width="94%"
-alt="GitHub activity snapshot"
+  src="./assets/github-snapshot.gif"
+  width="94%"
+  alt="GitHub activity snapshot"
 />
 
 <br/><br/>
 
 <img
-src="https://streak-stats.demolab.com?user=Codes-of-NazmuL&theme=github-dark-blue&hide_border=true"
-alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=Codes-of-NazmuL&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
 />
 
 </div>
 
-The animated snapshot above is stored inside this repository, so it does not depend on GitHub Actions or a public stats-card renderer. The contribution/streak values are a snapshot, not a live counter.
+> The animated snapshot above is stored inside this repository, so it does not depend on GitHub Actions or a public stats-card renderer. The contribution/streak values are a snapshot, not a live counter.
 
-~/git-flow --local
+---
+
+## `~/git-flow --local`
 
 <div align="center">
 
 <img
-src="./assets/git-flow-local.gif"
-width="94%"
-alt="Animated local Git flow"
+  src="./assets/git-flow-local.gif"
+  width="94%"
+  alt="Animated local Git flow"
 />
 
 <br/><br/>
 
 <img
-src="./assets/coding-rhythm.gif"
-width="94%"
-alt="Decorative coding rhythm animation"
+  src="./assets/coding-rhythm.gif"
+  width="94%"
+  alt="Decorative coding rhythm animation"
 />
 
 </div>
 
-~/currently
+## `~/currently`
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=flutter+run;finding+the+actual+bug...;fixing+the+edge+case...;ship+it.;repeat." alt="Animated development status" />
@@ -545,6 +653,7 @@ alt="Decorative coding rhythm animation"
 
 <br/>
 
+```diff
 + Shipping Flutter applications
 + Getting better at production architecture
 + Learning AI / ML
@@ -552,12 +661,15 @@ alt="Decorative coding rhythm animation"
 
 - Treating every requirement as "just another screen"
 - Trusting "works on my machine"
+```
 
 <div align="center">
   <img src="./assets/runtime-pulse.gif" width="94%" alt="Animated developer runtime pulse" />
 </div>
 
-~/public-repositories
+---
+
+## `~/public-repositories`
 
 <div align="center">
 
@@ -571,8 +683,11 @@ Commercial work stays private. Public experiments and practice projects live her
 
 </div>
 
-~/developer-runtime
+---
 
+## `~/developer-runtime`
+
+```javascript
 const runtime = {
   darkMode: true,
   tabsOpen: "too many",
@@ -590,13 +705,17 @@ while (runtime.darkMode) {
   understand();
   buildBetter();
 }
+```
 
-~/easter-egg
+---
+
+## `~/easter-egg`
 
 <details>
 <summary><b>open only if production is currently stable</b></summary>
 <br/>
 
+```text
           .--------.
          / .------. \
         / /        \ \
@@ -609,7 +728,9 @@ while (runtime.darkMode) {
      '.__  | SHIP |  __.'
      |   '.'.____.'.'   |
      '.____'.____.'____.'
+```
 
+```console
 $ git status
 On branch main
 
@@ -617,14 +738,17 @@ nothing to commit, working tree clean
 
 $ echo "suspicious..."
 suspicious...
+```
 
 </details>
 
-~/connect
+---
+
+## `~/connect`
 
 <div align="center">
 
-Have an interesting engineering problem?
+### Have an interesting engineering problem?
 
 I am more interested in the difficult part than the obvious part.
 
@@ -645,8 +769,8 @@ I am more interested in the difficult part than the obvious part.
 <br/><br/>
 
 <img
-src="https://komarev.com/ghpvc/?username=Codes-of-NazmuL&label=profile+views&color=58a6ff&style=flat-square"
-alt="Profile Views"
+  src="https://komarev.com/ghpvc/?username=Codes-of-NazmuL&label=profile+views&color=58a6ff&style=flat-square"
+  alt="Profile Views"
 />
 
 <br/><br/>
