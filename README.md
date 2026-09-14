@@ -513,20 +513,14 @@ product:
 
 ---
 
-## `~/github --stats`
+## `~/github --snapshot`
 
 <div align="center">
 
 <img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api?username=Codes-of-NazmuL&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github"
-  alt="GitHub Stats"
-/>
-
-<img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codes-of-NazmuL&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
-  alt="Top Languages"
+  src="./assets/github-snapshot.gif"
+  width="94%"
+  alt="GitHub activity snapshot"
 />
 
 <br/><br/>
@@ -538,46 +532,29 @@ product:
 
 </div>
 
+> The animated snapshot above is stored inside this repository, so it does not depend on GitHub Actions or a public stats-card renderer. The contribution/streak values are a snapshot, not a live counter.
+
 ---
 
-## `~/git log --graph`
+## `~/git-flow --local`
 
 <div align="center">
 
 <img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Codes-of-NazmuL&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true"
-  alt="Contribution Graph"
+  src="./assets/git-flow-local.gif"
+  width="94%"
+  alt="Animated local Git flow"
+/>
+
+<br/><br/>
+
+<img
+  src="./assets/coding-rhythm.gif"
+  width="94%"
+  alt="Decorative coding rhythm animation"
 />
 
 </div>
-
-<br/>
-
-### contribution snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Codes-of-NazmuL/Codes-of-NazmuL/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Codes-of-NazmuL/Codes-of-NazmuL/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Codes-of-NazmuL/Codes-of-NazmuL/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
-<!-- Run the included .github/workflows/snake.yml once to generate the output branch. -->
-
----
 
 ## `~/currently`
 
