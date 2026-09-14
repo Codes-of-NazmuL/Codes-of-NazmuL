@@ -7,7 +7,7 @@
 
 <h1 align="center" style="margin-bottom: 0;">Nazmul Islam</h1>
 
-<h3 align="center" style="margin-top: 6px;">Flutter Developer</h3>
+<!-- <h3 align="center" style="margin-top: 6px;">Flutter Developer</h3> -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Flutter+Developer;Building+real+mobile+products;Debugging+edge+cases+in+production;Exploring+AI+%2B+mobile+workflows" alt="Typing headline" />
 
 <p align="center">
