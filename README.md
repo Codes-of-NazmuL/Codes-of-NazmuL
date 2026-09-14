@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Flutter+Developer;Mobile+Engineer;Building+real+mobile+products;Debugging+edge+cases+in+production;Exploring+AI+%2B+mobile+workflows" alt="Typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Flutter+Developer;Building+real+mobile+products;Debugging+edge+cases+in+production;Exploring+AI+%2B+mobile+workflows" alt="Typing headline" />
 
 <h1 align="center" style="margin-bottom: 0;">Nazmul Islam</h1>
 
