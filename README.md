@@ -211,18 +211,6 @@ That is the kind of work I enjoy.
   <img src="https://img.icons8.com/fluency/96/github.png" width="52" alt="GitHub"/><br/>
   <b>GitHub</b>
 </td>
-<td align="center" width="115">
-  <img src="https://img.icons8.com/color/96/docker.png" width="52" alt="Docker"/><br/>
-  <b>Docker</b>
-</td>
-<td align="center" width="115">
-  <img src="https://img.icons8.com/color/96/nginx.png" width="52" alt="Nginx"/><br/>
-  <b>Nginx</b>
-</td>
-<td align="center" width="115">
-  <img src="https://img.icons8.com/color/96/ubuntu--v1.png" width="52" alt="Ubuntu"/><br/>
-  <b>Ubuntu</b>
-</td>
 </tr>
 </table>
 
