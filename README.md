@@ -7,11 +7,11 @@
 
 <div align="center">
 
-# Nazmul Islam
+Nazmul Islam
 
-### Flutter Developer · Mobile Engineer
+Flutter Developer · Mobile Engineer
 
-`Flutter` · `Dart` · `APIs` · `Firebase` · `Payments` · `Realtime` · `AI-integrated products`
+Flutter · Dart · APIs · Firebase · Payments · Realtime · AI-integrated products
 
 <br/>
 
@@ -36,11 +36,8 @@
 
 </div>
 
----
+~/hello
 
-## `~/hello`
-
-```console
 $ whoami
 
 role        Flutter Developer
@@ -48,7 +45,6 @@ focus       Production mobile applications
 working_on  Product flows, APIs, realtime features, payments, AI integrations
 learning    AI / ML
 status      Still debugging things that "should definitely work"
-```
 
 I like the part of mobile development that usually starts after the UI is already on screen.
 
@@ -56,13 +52,11 @@ A requirement can look simple until authentication behaves differently on iOS, a
 
 That is the kind of work I enjoy.
 
----
-
-## `~/stack --active`
+~/stack --active
 
 <div align="center">
 
-### Mobile Development
+Mobile Development
 
 <table>
 <tr>
@@ -85,7 +79,7 @@ That is the kind of work I enjoy.
 </tr>
 </table>
 
-### State & Local Data
+State & Local Data
 
 <table>
 <tr>
@@ -108,7 +102,7 @@ That is the kind of work I enjoy.
 </tr>
 </table>
 
-### APIs, Backend Services & Payments
+APIs, Backend Services & Payments
 
 <table>
 <tr>
@@ -131,7 +125,7 @@ That is the kind of work I enjoy.
 </tr>
 </table>
 
-### DevOps & Infrastructure
+DevOps & Infrastructure
 
 <table>
 <tr>
@@ -158,7 +152,7 @@ That is the kind of work I enjoy.
 </tr>
 </table>
 
-### Product Integrations
+Product Integrations
 
 <table>
 <tr>
@@ -187,44 +181,66 @@ That is the kind of work I enjoy.
 
 </div>
 
----
+~/selected-work
 
-## `~/selected-work`
-
-> Most of my production work is client work, so the source code is private.  
-> I would rather describe the engineering honestly than attach fake public repository links.
+Most of my production work is client work, so the source code is private.
+I would rather describe the engineering honestly than attach fake public repository links.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Chaizen
+Chaizen
 
-**Anonymous social app**
+Anonymous social app
 
 Floating bubble interactions, anonymous chat, and an identity problem that looked simple until iPhone made the first approach unreliable.
 
 The early device-ID approach was not stable enough for persistent identity, so the authentication flow moved toward passkeys.
 
-**Worked around**
+Worked around
 
-`Flutter` `Animations` `Passkeys` `Chat`
+Flutter Animations Passkeys Chat
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://play.google.com/store/apps/details?id=app.chaizen">
+    <img src="https://img.icons8.com/color/48/google-play.png" width="28" alt="Google Play"/>
+    <br/><b>Google Play</b>
+  </a>
+</td>
+<td align="center">
+  <a href="https://apps.apple.com/app/id6758223599">
+    <img src="https://img.icons8.com/fluency/48/apple-app-store.png" width="28" alt="App Store"/>
+    <br/><b>App Store</b>
+  </a>
+</td>
+</tr>
+</table>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Mojacares
+Mojacares
 
-**Healthcare service platform**
+Healthcare service platform
 
 Patient and staff workflows connected with healthcare services, reports, recorded vitals, health scores, AI insights, and AI chat.
 
 The interesting part was turning information from different health records into something understandable inside the patient experience.
 
-**Worked around**
+Worked around
 
-`Flutter` `Healthcare` `AI Insights` `Patient Data`
+Flutter Healthcare AI Insights Patient Data
+
+<!--
+Mojacares Google Play button goes here once the exact Play Store URL/package ID is confirmed.
+Use the same Icons8 Google Play icon style as Chaizen.
+-->
 
 </td>
 </tr>
@@ -232,35 +248,35 @@ The interesting part was turning information from different health records into 
 <tr>
 <td width="50%" valign="top">
 
-### Mediscribe AI
+Mediscribe AI
 
-**AI-assisted clinical documentation**
+AI-assisted clinical documentation
 
 Doctors record a consultation and the processed conversation becomes a structured SOAP note:
 
-`Subjective → Objective → Assessment → Plan`
+Subjective → Objective → Assessment → Plan
 
 The useful part was not voice recording itself. It was turning a normal conversation into structured information the doctor could review later.
 
-**Worked around**
+Worked around
 
-`Flutter` `Audio` `AI Processing` `SOAP`
+Flutter Audio AI Processing SOAP
 
 </td>
 
 <td width="50%" valign="top">
 
-### COOW
+COOW
 
-**QR ownership & recovery platform**
+QR ownership & recovery platform
 
 What initially looked like a QR scanner became a system connecting physical objects, owners, finders, products, companies, and permissions.
 
 Lost mode, deep links, private messaging, reward negotiation, verification levels, and shared company QR access were all part of the product.
 
-**Worked around**
+Worked around
 
-`Flutter` `QR` `Deep Linking` `Messaging` `Permissions`
+Flutter QR Deep Linking Messaging Permissions
 
 </td>
 </tr>
@@ -268,45 +284,41 @@ Lost mode, deep links, private messaging, reward negotiation, verification level
 <tr>
 <td width="50%" valign="top">
 
-### Adventure Rentals
+Adventure Rentals
 
-**Sports vehicle rental marketplace**
+Sports vehicle rental marketplace
 
 A rental is not one screen. It moves through a lifecycle:
 
-```text
 request → approval → payment → pickup → rental → return
-```
 
 The app connected vehicle listings, renter/provider flows, chat, booking state, and Stripe payments around that lifecycle.
 
-**Worked around**
+Worked around
 
-`Flutter` `Marketplace` `Stripe` `Chat`
+Flutter Marketplace Stripe Chat
 
 </td>
 
 <td width="50%" valign="top">
 
-### Gaelic Football Fantasy
+Gaelic Football Fantasy
 
-**Team building & player management**
+Team building & player management
 
 I knew almost nothing about Gaelic football before this project, so part of the work was understanding the sport before translating the client's rules into product behavior.
 
 Player budgets, positions, availability, injuries, performance, and prediction-related information all affected the team-building flow.
 
-**Worked around**
+Worked around
 
-`Flutter` `Team Building` `Budget Logic` `Player State`
+Flutter Team Building Budget Logic Player State
 
 </td>
 </tr>
 </table>
 
----
-
-## `~/project-notes`
+~/project-notes
 
 <details>
 <summary><b>Chaizen — the bubble problem</b></summary>
@@ -316,9 +328,7 @@ The floating bubbles could not all move in the same predictable direction.
 
 I used controlled randomized offsets such as:
 
-```text
 -35    0    +35
-```
 
 to introduce enough variation that the bubbles felt independent without making the animation system unnecessarily complicated.
 
@@ -332,15 +342,11 @@ A scanned QR could represent a vehicle, a lost object, a product, or a company-m
 
 So the real question was never just:
 
-```text
 "Can the app scan this QR?"
-```
 
 It was:
 
-```text
 "What should happen after this QR is scanned?"
-```
 
 That led into identity, permissions, deep links, lost mode, messaging, and company access.
 
@@ -352,7 +358,6 @@ That led into identity, permissions, deep links, lost mode, messaging, and compa
 
 The booking had to remain understandable from both sides.
 
-```text
 Renter                         Provider
   |                               |
   | -------- request -----------> |
@@ -364,17 +369,13 @@ Renter                         Provider
   | -------- pickup ------------> |
   |                               |
   | -------- return ------------> |
-```
 
 The same booking existed for both users, but the actions available to each side were different.
 
 </details>
 
----
+~/how-i-build
 
-## `~/how-i-build`
-
-```text
 idea
  │
  ▼
@@ -400,11 +401,9 @@ debug the real cause
  │
  ▼
 ship
-```
 
 My default questions are usually:
 
-```text
 What happens if this request runs twice?
 
 What happens if the network disappears here?
@@ -418,13 +417,9 @@ What happens when the token expires?
 Will iOS behave the same way as Android?
 
 What does the user see when the happy path fails?
-```
 
----
+~/engineering-rules
 
-## `~/engineering-rules`
-
-```yaml
 state:
   should_be:
     - predictable
@@ -453,54 +448,46 @@ architecture:
 product:
   rule:
     - understand the workflow before building the screen
-```
 
----
-
-## `~/github --stats`
+~/github --stats
 
 <div align="center">
 
 <img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api?username=Codes-of-NazmuL&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github"
-  alt="GitHub Stats"
+height="175"
+src="https://github-readme-stats.vercel.app/api?username=Codes-of-NazmuL&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github"
+alt="GitHub Stats"
 />
 
 <img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codes-of-NazmuL&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
-  alt="Top Languages"
+height="175"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codes-of-NazmuL&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
+alt="Top Languages"
 />
 
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=Codes-of-NazmuL&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
+src="https://streak-stats.demolab.com?user=Codes-of-NazmuL&theme=github-dark-blue&hide_border=true"
+alt="GitHub Streak"
 />
 
 </div>
 
----
-
-## `~/git log --graph`
+~/git log --graph
 
 <div align="center">
 
 <img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Codes-of-NazmuL&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true"
-  alt="Contribution Graph"
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Codes-of-NazmuL&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true"
+alt="Contribution Graph"
 />
 
 </div>
 
----
+~/currently
 
-## `~/currently`
-
-```diff
 + Shipping Flutter applications
 + Getting better at production architecture
 + Learning AI / ML
@@ -508,11 +495,8 @@ product:
 
 - Treating every requirement as "just another screen"
 - Trusting "works on my machine"
-```
 
----
-
-## `~/public-repositories`
+~/public-repositories
 
 <div align="center">
 
@@ -526,11 +510,8 @@ Commercial work stays private. Public experiments and practice projects live her
 
 </div>
 
----
+~/developer-runtime
 
-## `~/developer-runtime`
-
-```javascript
 const runtime = {
   darkMode: true,
   tabsOpen: "too many",
@@ -548,15 +529,12 @@ while (runtime.darkMode) {
   understand();
   buildBetter();
 }
-```
 
----
-
-## `~/connect`
+~/connect
 
 <div align="center">
 
-### Have an interesting engineering problem?
+Have an interesting engineering problem?
 
 I am more interested in the difficult part than the obvious part.
 
@@ -577,8 +555,8 @@ I am more interested in the difficult part than the obvious part.
 <br/><br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=Codes-of-NazmuL&label=profile+views&color=58a6ff&style=flat-square"
-  alt="Profile Views"
+src="https://komarev.com/ghpvc/?username=Codes-of-NazmuL&label=profile+views&color=58a6ff&style=flat-square"
+alt="Profile Views"
 />
 
 <br/><br/>
