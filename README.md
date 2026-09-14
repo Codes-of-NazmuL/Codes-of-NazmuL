@@ -1,186 +1,300 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Codes-of-NazmuL/Codes-of-NazmuL/main/cover.png" alt="Nazmul Islam — Flutter Developer" width="100%" />
-</p>
+<!-- =========================
+     HERO
+========================= -->
 
-<h1 align="center">Nazmul Islam</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Flutter Developer</strong><br/>
-  Building mobile products around real workflows, API integrations, AI-assisted features, payments, messaging, and platform-specific behavior.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:111827,100:00C2FF&text=Nazmul%20Islam&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://nazmuls.app">
-    <img src="https://img.shields.io/badge/Portfolio-nazmuls.app-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/nazmul-islam-qnix">
-    <img src="https://img.shields.io/badge/LinkedIn-Nazmul_Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nazmulislambd2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=39D0FF&center=true&vCenter=true&width=760&lines=Building+production+mobile+applications;Flutter+%2B+APIs+%2B+AI-integrated+products;Solving+real+product+problems%2C+not+just+building+screens" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## About Me
+<a href="https://nazmuls.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/nazmul-islam-qnix">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nazmulislambd2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-I am a Flutter developer focused on building production mobile applications rather than isolated demo screens.
+</div>
 
-Most of my work involves taking a real product requirement, understanding the workflow behind it, and turning it into a mobile experience that can handle API state, authentication, payments, messaging, deep links, local persistence, and platform-specific behavior.
+<br/>
 
-I have worked on healthcare applications, anonymous social products, QR-based ownership and recovery systems, rental marketplaces, AI-assisted clinical workflows, and team-management products.
+<!-- =========================
+     ABOUT
+========================= -->
 
-I care about keeping the codebase understandable, handling edge cases properly, and making the application behavior match the real-world process behind the product.
+## `> whoami`
 
----
+```dart
+class NazmulIslam {
+  final String role = "Flutter Developer";
 
-## What I Work With
+  final List<String> focus = [
+    "Production Mobile Apps",
+    "API-driven Products",
+    "AI-integrated Features",
+    "Real-world Product Workflows",
+  ];
 
-### Mobile
+  final String philosophy =
+      "Understand the problem first. Then build the right thing.";
+}
+```
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
+I build Flutter applications around real product requirements — authentication, payments, messaging, deep linking, healthcare workflows, AI features, marketplace state, QR systems, and platform-specific behavior.
 
-### State & Local Data
+My focus is not just getting a screen to work. I care about **how the complete workflow behaves in production**.
 
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square\&logo=flutter\&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-4479A1?style=flat-square\&logo=flutter\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square\&logo=sqlite\&logoColor=white)
-![GetStorage](https://img.shields.io/badge/GetStorage-4DB6AC?style=flat-square)
+<br/>
 
-### APIs, Services & Delivery
+<!-- =========================
+     STACK
+========================= -->
 
-![REST API](https://img.shields.io/badge/REST_API-222222?style=flat-square\&logo=json\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+## `> stack`
 
-**Also worked with:** REST integrations, Firebase services, Stripe payment flows, deep linking, passkey-based authentication flows, push notifications, chat systems, AI-generated structured data, and mobile app release workflows.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,git,github,docker,nginx&theme=dark" />
 
-## Selected Work
+<br/><br/>
 
-> Some of these are client projects, so the source code is private. I describe the engineering work rather than linking to code I cannot publish.
+<img src="https://img.shields.io/badge/GetX-State_Management-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Provider-State_Management-02569B?style=flat-square" />
+<img src="https://img.shields.io/badge/REST-APIs-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Linking-Mobile-00C2FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Passkeys-Authentication-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-Integrated_Features-7C3AED?style=flat-square" />
 
-### Chaizen — Anonymous Social App
+</div>
 
-An anonymous social application built around interactive floating bubbles and chat.
+<br/>
 
-I worked on the bubble interaction, including randomized movement to avoid a repetitive animation pattern, and on the identity flow. An early device-ID approach was not reliable enough on iPhone, so the authentication model moved toward passkeys to keep a persistent identity without introducing a traditional username/password login flow.
+<!-- =========================
+     FEATURED WORK
+========================= -->
 
-**Worked on:** `Flutter` `Animation` `Authentication` `Passkeys` `Chat`
+## `> selected_work`
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Mojacares — Healthcare Service App
+### Chaizen
 
-A healthcare platform connecting patients, staff, service orders, medical reports, recorded health vitals, AI insights, and AI chat.
+**Anonymous Social App**
 
-The interesting part was not simply displaying health data. Patient information could come from uploaded reports as well as staff-recorded vitals after a service. The mobile experience then had to present that processed information clearly, including health scores and visual states for different parts of the health summary.
+Floating bubble interactions, anonymous identity, chat, and a passkey-based approach after device identifiers proved unreliable on iPhone.
 
-**Worked on:** `Flutter` `Patient Workflows` `Staff Workflows` `AI Insights` `AI Chat`
+`Flutter` `Animation` `Passkeys` `Chat`
 
----
+</td>
 
-### Mediscribe AI — AI-Assisted Clinical Notes
+<td width="50%" valign="top">
 
-A mobile workflow for recording doctor-patient consultations and turning the processed conversation into structured SOAP notes: Subjective, Objective, Assessment, and Plan.
+### Mojacares
 
-The recording is uploaded after the consultation, processed by AI, and converted into a structured clinical note that can remain in the patient's history.
+**Healthcare Platform**
 
-The useful part was not the recording itself, but turning a natural conversation into information a doctor could review without starting the documentation from scratch.
+Patient and staff workflows connected with healthcare services, medical reports, recorded vitals, health scores, AI insights, and AI chat.
 
-**Worked on:** `Flutter` `Audio Recording` `AI Processing` `SOAP Notes` `Patient History`
+`Flutter` `Healthcare` `AI Insights` `AI Chat`
 
----
+</td>
+</tr>
 
-### COOW — QR Ownership & Recovery Platform
+<tr>
+<td width="50%" valign="top">
 
-COOW started as what looked like a QR scanner, but the actual product was much broader.
+### Mediscribe AI
 
-QR codes could be attached to vehicles, personal items, products, or company-managed resources.
+**AI-Assisted Clinical Notes**
 
-The app supported deep-link routing, lost mode, owner/finder messaging, reward negotiation, verification-based account levels, and company accounts where multiple users could manage shared QR resources.
+Records doctor-patient consultations and turns processed conversations into structured SOAP notes that remain in patient history.
 
-**Worked on:** `Flutter` `QR Scanning` `Deep Linking` `Messaging` `Account Verification` `Role-Based Access`
+`Flutter` `Audio` `AI Processing` `SOAP`
 
----
+</td>
 
-### Adventure Rentals — Vehicle Rental Marketplace
+<td width="50%" valign="top">
 
-A two-sided rental marketplace for sports vehicles.
+### COOW
 
-Providers can list vehicles and renters can review specifications and pickup information, send booking requests, communicate with the provider, and continue through the rental lifecycle after approval.
+**QR Ownership & Recovery**
 
-The application also includes chat and a Stripe-based escrow-style payment flow tied to the booking process.
+QR-based ownership, lost mode, deep linking, private messaging, reward negotiation, account verification, and company-managed QR access.
 
-**Worked on:** `Flutter` `Marketplace Flow` `Booking State` `Chat` `Stripe`
+`Flutter` `QR` `Deep Linking` `Messaging`
 
----
+</td>
+</tr>
 
-### Gaelic Football Fantasy — Team Management
+<tr>
+<td width="50%" valign="top">
 
-A team-building and player-management application for Gaelic football, a sport I had not worked with before this project.
+### Adventure Rentals
 
-The main challenge was learning the domain well enough to translate the client's team-management rules into the application.
+**Vehicle Rental Marketplace**
 
-Coaches could build teams around player budgets, positions, availability, injury status, performance information, and prediction-related features.
+Two-sided sports vehicle rental flow covering listings, booking requests, provider approval, chat, pickup/return state, and Stripe payments.
 
-**Worked on:** `Flutter` `Team Building` `Budget Logic` `Player Management` `Domain-Driven UI`
+`Flutter` `Marketplace` `Stripe` `Chat`
 
----
+</td>
 
-## Public Repositories
+<td width="50%" valign="top">
 
-A lot of my commercial work cannot be published publicly, but I keep practice projects and other public code on GitHub.
+### Gaelic Football Fantasy
 
-<p align="center">
-  <a href="https://github.com/Codes-of-NazmuL?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" />
-  </a>
-</p>
+**Team Management Platform**
 
----
+Team building around player budgets, positions, availability, injury status, performance, and prediction-related information.
 
-## How I Think About Development
+`Flutter` `Team Building` `State Logic`
 
-I usually start by understanding the actual workflow before choosing how to implement it.
+</td>
+</tr>
+</table>
 
-A requirement that sounds simple on paper can hide state, permission, identity, payment, or platform-specific problems once development starts.
+> Most commercial projects are private client work, so source code is not publicly available.
 
-A few things I pay attention to:
+<br/>
 
-* Keep UI state and business state predictable.
-* Treat authentication and identity as separate problems when they are not actually the same thing.
-* Design around failure cases, not only the happy path.
-* Keep API contracts structured enough for the UI to make reliable decisions.
-* Avoid rebuilding existing parts of a product unless there is a clear reason to do it.
-* Test behavior on the real target platform instead of assuming Android and iOS behave the same way.
+<!-- =========================
+     ENGINEERING
+========================= -->
 
----
+## `> how_i_build`
 
-## Currently Exploring
+```text
+Requirement
+    ↓
+Understand the real workflow
+    ↓
+Identify states + edge cases
+    ↓
+Define API / app responsibilities
+    ↓
+Build the feature
+    ↓
+Test Android + iOS behavior
+    ↓
+Handle failure cases
+    ↓
+Ship
+```
 
-I am continuing to deepen my work around AI/ML while keeping mobile engineering as my main development background, especially where AI features need to fit into real product workflows rather than exist as isolated demos.
+I pay particular attention to state transitions, authentication, API contracts, platform differences, failure handling, and keeping business logic understandable as the application grows.
 
----
+<br/>
 
-## Connect
+<!-- =========================
+     GITHUB STATS
+========================= -->
 
-<p align="center">
-  <a href="https://nazmuls.app">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/nazmul-islam-qnix">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:nazmulislambd2004@gmail.com">Email</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Codes-of-NazmuL?tab=repositories">Repositories</a>
-</p>
+## `> github_activity`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Codes-of-NazmuL&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Codes-of-NazmuL&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D0FF&icon_color=39D0FF&text_color=C9D1D9&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codes-of-NazmuL&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D0FF&text_color=C9D1D9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Codes-of-NazmuL&theme=transparent&hide_border=true&background=0D1117&stroke=30363D&ring=39D0FF&fire=39D0FF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=39D0FF&sideLabels=8B949E&dates=8B949E" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Codes-of-NazmuL&bg_color=0D1117&color=8B949E&line=39D0FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+<br/>
+
+<!-- =========================
+     PUBLIC CODE
+========================= -->
+
+## `> public_code`
+
+<div align="center">
+
+<a href="https://github.com/Codes-of-NazmuL?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- =========================
+     CURRENT FOCUS
+========================= -->
+
+## `> current_focus`
+
+```yaml
+mobile:
+  - Flutter
+  - production architecture
+  - platform-specific behavior
+
+learning:
+  - AI / ML
+  - AI-powered product workflows
+  - intelligent mobile applications
+
+interested_in:
+  - challenging Flutter products
+  - AI + mobile
+  - real-world engineering problems
+```
+
+<br/>
+
+<!-- =========================
+     CONNECT
+========================= -->
+
+## `> connect`
+
+<div align="center">
+
+**Have an interesting product or engineering problem?**
+
+<br/>
+
+<a href="https://nazmuls.app">
+  <img src="https://img.shields.io/badge/nazmuls.app-Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+<a href="https://www.linkedin.com/in/nazmul-islam-qnix">
+  <img src="https://img.shields.io/badge/Nazmul_Islam-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:nazmulislambd2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Codes-of-NazmuL&label=PROFILE+VIEWS&color=00C2FF&style=flat-square" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C2FF,50:111827,100:0D1117" />
