@@ -4,81 +4,69 @@
 
 <div align="center">
 
-<h1>Nazmul Islam</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Flutter+Developer;Mobile+Engineer;Building+real+mobile+products;Debugging+edge+cases+in+production;Exploring+AI+%2B+mobile+workflows" alt="Typing headline" />
 
-<h3>Flutter Developer · Mobile Engineer</h3>
+<h1 align="center" style="margin-bottom: 0;">Nazmul Islam</h1>
 
-<p>
+<h3 align="center" style="margin-top: 6px;">Flutter Developer · Mobile Engineer</h3>
+
+<p align="center">
   I build production mobile apps around real workflows, APIs, payments, realtime features, and AI integrations.
 </p>
 
 <br/>
 
-<!-- Clean Icons8 link buttons -->
+<img src="./assets/profile-hero.gif" width="100%" alt="Animated developer profile hero" />
+
+<br/><br/>
+
 <table>
 <tr>
-
-<td align="center" width="150">
+<td align="center" width="180">
   <a href="https://nazmuls.app">
-    <img src="https://img.icons8.com/fluency/96/domain.png" width="44" alt="Portfolio"/>
-    <br/>
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="42" alt="Portfolio"/><br/>
     <b>Portfolio</b>
   </a>
 </td>
-
-<td align="center" width="150">
+<td align="center" width="180">
   <a href="https://www.linkedin.com/in/nazmul-islam-qnix">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="44" alt="LinkedIn"/>
-    <br/>
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="42" alt="LinkedIn"/><br/>
     <b>LinkedIn</b>
   </a>
 </td>
-
-<td align="center" width="150">
+<td align="center" width="180">
   <a href="mailto:nazmulislambd2004@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="44" alt="Email"/>
-    <br/>
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="42" alt="Email"/><br/>
     <b>Email</b>
   </a>
 </td>
-
-<td align="center" width="150">
+<td align="center" width="180">
   <a href="https://github.com/Codes-of-NazmuL?tab=repositories">
-    <img src="https://img.icons8.com/fluency/96/github.png" width="44" alt="GitHub"/>
-    <br/>
+    <img src="https://img.icons8.com/fluency/96/github.png" width="42" alt="Repositories"/><br/>
     <b>Repositories</b>
   </a>
 </td>
-
 </tr>
 </table>
 
 <br/>
 
-<!-- Small status row -->
 <table>
 <tr>
 <td align="center" width="170">
-  <img src="https://img.icons8.com/color/48/flutter.png" width="28" alt="Flutter"/>
-  <br/>
+  <img src="https://img.icons8.com/color/48/flutter.png" width="28" alt="Flutter"/><br/>
   <b>Flutter</b>
 </td>
-
 <td align="center" width="170">
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="28" alt="AI ML"/>
-  <br/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="28" alt="AI / ML"/><br/>
   <b>Learning AI / ML</b>
 </td>
-
 <td align="center" width="170">
-  <img src="https://img.icons8.com/color/48/rocket.png" width="28" alt="Building"/>
-  <br/>
+  <img src="https://img.icons8.com/color/48/rocket.png" width="28" alt="Building Products"/><br/>
   <b>Building Products</b>
 </td>
-
 <td align="center" width="170">
-  <img src="https://img.icons8.com/color/48/worldwide-location.png" width="28" alt="GMT+6"/>
-  <br/>
+  <img src="https://img.icons8.com/color/48/worldwide-location.png" width="28" alt="Timezone"/><br/>
   <b>GMT+6</b>
 </td>
 </tr>
@@ -86,48 +74,31 @@
 
 <br/>
 
-<!-- Optional animation. If assets are missing, the name and links above still remain visible. -->
-<img src="./assets/profile-hero.gif" width="100%" alt="Animated developer profile hero" />
+<sub><code>build → debug → understand → ship → repeat</code></sub>
 
-<br/>
-
-<sub>
-build → debug → understand → ship → repeat
-</sub>
-
-</div>
-
-<br/>
+<br/><br/>
 
 <table>
 <tr>
-
 <td width="33%" align="center">
-  <img src="https://img.icons8.com/color/48/code.png" width="28" alt="Build"/>
-  <br/>
-  <b>BUILD</b>
-  <br/>
+  <img src="https://img.icons8.com/color/48/source-code.png" width="28" alt="Build"/><br/>
+  <b>BUILD</b><br/>
   Production mobile apps
 </td>
-
 <td width="33%" align="center">
-  <img src="https://img.icons8.com/color/48/maintenance.png" width="28" alt="Solve"/>
-  <br/>
-  <b>SOLVE</b>
-  <br/>
+  <img src="https://img.icons8.com/color/48/maintenance.png" width="28" alt="Solve"/><br/>
+  <b>SOLVE</b><br/>
   Auth, state, payments & edge cases
 </td>
-
 <td width="33%" align="center">
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="28" alt="Explore"/>
-  <br/>
-  <b>EXPLORE</b>
-  <br/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="28" alt="Explore"/><br/>
+  <b>EXPLORE</b><br/>
   AI + mobile workflows
 </td>
-
 </tr>
 </table>
+
+</div>
 
 ---
 
