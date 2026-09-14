@@ -238,10 +238,6 @@ That is the kind of work I enjoy.
   <img src="https://img.icons8.com/color/96/appointment-reminders--v1.png" width="48" alt="Notifications"/><br/>
   <b>Notifications</b>
 </td>
-<td align="center" width="125">
-     [<img width="66" height="66" src="https://img.icons8.com/external-smashingstocks-glyph-smashing-stocks/66/external-payment-gateway-banking-and-finance-smashingstocks-glyph-smashing-stocks.png" alt="external-payment-gateway-banking-and-finance-smashingstocks-glyph-smashing-stocks"/>](https://img.icons8.com/?size=100&id=OXnKVMqSMQPz&format=png&color=000000)
-     <b>Payment Gateway</b>
-</td>
 </tr>
 </table>
 
